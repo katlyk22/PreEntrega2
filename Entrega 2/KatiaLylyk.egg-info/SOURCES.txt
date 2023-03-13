@@ -1,0 +1,8 @@
+setup.py
+KatiaLylyk.egg-info/PKG-INFO
+KatiaLylyk.egg-info/SOURCES.txt
+KatiaLylyk.egg-info/dependency_links.txt
+KatiaLylyk.egg-info/top_level.txt
+Paquete/ClassCliente.py
+Paquete/RegistroCliente.py
+Paquete/__init__.py
